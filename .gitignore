@@ -1,0 +1,12 @@
+# 截图输出
+脚本/shots/
+shots/
+
+# 临时文件
+*.tmp
+*.log
+
+# 系统垃圾
+Thumbs.db
+Desktop.ini
+.DS_Store
